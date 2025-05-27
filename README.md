@@ -56,11 +56,31 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 
 ## 📊 GitHub Stats
 
-![Kun Sakol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhma-coder&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)
+### 🧮 Overall Contribution Stats
+Shows total commits, stars, and repository stats (including private contributions):
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhma-coder&layout=compact&hide_border=true&langs_count=8&theme=radical)
+![Kun Sakol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhma-coder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight-light&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chhma-coder&hide_border=true&theme=radical)
+---
+
+### 🈯 Most Used Languages
+Displays the most-used programming languages across your public (non-forked) repositories:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhma-coder&layout=compact&langs_count=8&theme=tokyonight-light&hide_border=true)
+
+---
+
+### 🔥 GitHub Activity Streak
+Highlights your daily coding streak and contribution consistency:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chhma-coder&theme=tokyonight-light&hide_border=true)
+
+---
+
+### 🧪 Optional: Contribution Calendar
+Provides a GitHub heatmap-style calendar:
+
+![GitHub Contribution Calendar](https://github-contribution-stats.vercel.app/api/?username=chhma-coder)
 
 ---
 
