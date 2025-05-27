@@ -9,6 +9,9 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat)
 
 ### 🛠️ Backend
 ![Gin](https://img.shields.io/badge/Gin-Golang-blue?style=flat)
@@ -25,12 +28,17 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat)
 ![Element Plus](https://img.shields.io/badge/Element--Plus-409EFF?logo=element&logoColor=white&style=flat)
+![Vant](https://img.shields.io/badge/Vant-Vue3_UI_Components-1989FA?style=flat)
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Firebase Realtime DB](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?logo=firebase&logoColor=black&style=flat)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=mysql&logoColor=white&style=flat)
+![DBeaver](https://img.shields.io/badge/DBeaver-37261E?style=flat&logo=databricks&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-2699FB?style=flat&logo=databricks&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### ☁️ Cloud & Payments
 ![Google Cloud Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?logo=google-cloud&logoColor=white&style=flat)
@@ -40,9 +48,11 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=flat)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=flat)
+![GoLand](https://img.shields.io/badge/GoLand-00ADD8?logo=goland&logoColor=white&style=flat)
 
 ### 🔐 Authentication & Architecture
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white&style=flat)
