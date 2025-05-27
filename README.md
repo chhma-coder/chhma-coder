@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Kun Sakol (aka **Chhma**)
+# 👋 Hello! I'm Kun Sakol (**Chhma**)
 
 Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰🇭, focused on building real-world software solutions with clean architecture and great performance.
 
