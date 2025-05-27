@@ -1,6 +1,21 @@
-# 👋 Hello! I'm Kun Sakol (**Chhma**)
+# 👋 你好, I'm Kun Sakol — aka **Chhma** 🐱
 
-Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰🇭, focused on building real-world software solutions with clean architecture and great performance.
+### 👋 សួស្តី!
+
+ខ្ញុំបាទ **គុន សកល** (ឈ្មោះហៅក្រៅ: **ឆ្មា** 😺) ជា Developer ម្នាក់នៅប្រទេសកម្ពុជា 🇰🇭  
+ខ្ញុំមានចំណង់ចំណូលចិត្តក្នុងការស្ថាបនាប្រព័ន្ធដែលមានគុណភាព ល្អប្រសើរ និងមានប្រសិទ្ធភាពខ្ពស់។ 💡💻
+
+
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from **Cambodia 🇰🇭** who loves building real-world software solutions with a strong focus on:
+
+- 🧼 **Clean Architecture**
+- 🚀 **High Performance**
+- 🛠️ **Scalable, Maintainable Code**
+
+I love turning complex ideas into elegant, user-friendly systems.  
+From backend APIs to frontend design — building things that just work makes me happy 😊
+
+---
 
 ## 🚀 Tech Stack
 
@@ -20,6 +35,10 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 ![REST API](https://img.shields.io/badge/REST-API-green?style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-architecture-blueviolet?style=flat)
 
+### ⚡ Real-Time Technologies
+![WebSocket](https://img.shields.io/badge/WebSocket-Communication-FF6F00?style=flat)
+![Firebase Realtime DB](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?logo=firebase&logoColor=black&style=flat)
+
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?logo=nuxt.js&logoColor=white&style=flat)
@@ -29,12 +48,12 @@ Welcome to my GitHub! I'm a passionate full-stack developer from Cambodia 🇰�
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat)
 ![Element Plus](https://img.shields.io/badge/Element--Plus-409EFF?logo=element&logoColor=white&style=flat)
 ![Vant](https://img.shields.io/badge/Vant-Vue3_UI_Components-1989FA?style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
-![Firebase Realtime DB](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=mysql&logoColor=white&style=flat)
 ![DBeaver](https://img.shields.io/badge/DBeaver-37261E?style=flat&logo=databricks&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-2699FB?style=flat&logo=databricks&logoColor=white)
@@ -98,6 +117,18 @@ Provides a GitHub heatmap-style calendar:
 
 - 📧 Email: [kunsakol8@gmail.com](mailto:kunsakol8@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sakol-kun-72622b239](https://linkedin.com/in/sakol-kun-72622b239)
+
+---
+
+<blockquote align="center">
+❤️ <strong>រំពឹងពាក្យពិតរសាត់តាមខ្យល់ 😢</strong><br><br>
+ស្រឡាញ់គេម្នាក់ឯង ចិត្តឯងប្រគល់ឱ្យគេ 🎈<br>
+តែពេលខ្លះគេស្រឡាញ់ឯង គ្រាន់តែជាការអាសូរដល់ឯង 😢<br>
+បេះដូងស្ទើរប្រះបែក 💔 តែត្រូវនៅស្ងៀមធ្វើដូចមនុស្សខ្លាំង 💪<br>
+លែងស្រឡាញ់គេទៀតទៅ ដើម្បីសុភមង្គលខ្លួនឯង ❤️‍🩹 <br>
+មានតែការសរសេរកូដ 💻 គឺជាឱសុទព្យាបាលបេះដូង 💊❤️‍🩹 <br><br>
+បំណង់ល្អពី<b>ឆ្មា​</b> 🐱❤️😊
+</blockquote>
 
 ---
 
